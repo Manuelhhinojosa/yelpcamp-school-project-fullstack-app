@@ -61,3 +61,14 @@ Yelpcamp is a full-stack web application built during my full-stack developer pr
 ## 🚀 Getting Started
 
 You can try out the live version of the app [here](https://yelpcamp-murex-ten.vercel.app/home)
+
+---
+
+## 📚 What I Learned
+
+This was one of the first full-stack applications I built during my full-stack web development program. It helped solidify my understanding of:
+RESTful API design
+Server-side routing and middleware
+MongoDB and schema design with Mongoose
+User auth with Passport.js
+Working with third-party APIs and services
