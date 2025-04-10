@@ -1,31 +1,16 @@
-# Project: A Node-Express-MongoDB-Mongoose Full-stack CRUD Application with authentication, use of maps, file/image upload
+# Yelpcamp 🏕️
+
+_A Full-Stack CRUD App Built with Node.js, Express, and MongoDB_
 
 ---
 
-## Content ;
+## 📘 Overview
 
-1. Title Of The App & Quick Intro.
-2. App Screenshots.
-3. Technologies Used.
-4. Getting Started.
+Yelpcamp is a full-stack web application built during my full-stack developer program. It allows users to share and review campground locations around the world — similar to Yelp, but focused on outdoor adventures. The app supports full CRUD functionality, user authentication, authorization, interactive maps, and image uploads.
 
 ---
 
----
-
-### 1. Title Of The Game :
-
-Yelpcamp.
-
----
-
-### 1. Quik Intro :
-
-Yelpcamp is a Yelp-like app designed to share & review camground sites around the world
-
----
-
-### 2. App Screenshots :
+### App Screenshots :
 
 1. Home page.
 
@@ -57,27 +42,22 @@ Yelpcamp is a Yelp-like app designed to share & review camground sites around th
 
 ---
 
-### 3. Technologies Used :
+## 🛠️ Tech Stack
 
-1. HTML
-2. CSS
-3. JavaScript
-4. MongoDB
-5. Mongoose
-6. NodeJS
-7. Express
-8. CDN & NPM external libraries/packages integration
-9. Interactive maps
-10. API calls
-11. Authentication
-12. Authorization
-13. File/Image upload
-14. bootstrap
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Node.js, Express
+- **Database:** MongoDB with Mongoose
+- **Features:**
+  - Full CRUD functionality
+  - RESTful routing
+  - User registration & login (authentication)
+  - Role-based access (authorization)
+  - Image/file upload with Multer & Cloudinary
+  - Interactive maps with Mapbox
+  - Flash messaging & error handling
 
 ---
 
-### 4. Getting Started :
+## 🚀 Getting Started
 
-Click [here]https://mh-yelpcamp.herokuapp.com) to checkout the app.
-
----
+You can try out the live version of the app [here](https://yelpcamp-murex-ten.vercel.app/home)
